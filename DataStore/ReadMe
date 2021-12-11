@@ -1,1 +1,5 @@
-
+The *.mat files containing input-output data for plant and controller training, 
+and trained plant and contoller neural network models are >1 GB can be provided 
+upon request. Please note that the current settings require these files for the 
+code to run. However, the code can be fully used with minor modifications to the 
+UserChoice section.
